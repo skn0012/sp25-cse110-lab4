@@ -9,4 +9,3 @@
 5. The code returns an error because when defining a variable in a block, it can only be accessed within that block and not outside it.
 6. The code returns an error because you cannot assign a new element to a const variable.
 7. The code returns an error because you cannot assign a new element to a const variable.
-8. 
