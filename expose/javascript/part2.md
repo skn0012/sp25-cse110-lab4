@@ -36,3 +36,6 @@
 16. Done in part2-question16.js.
 17. The result will be [2,4,6] because the modifyArray function takes in the [1,2,3] array and puts it in 'array' then doubles each element in the array.
 18. Done in part2-question18.js.
+19. - 1
+    - 3
+    - 2
