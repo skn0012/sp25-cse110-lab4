@@ -33,3 +33,6 @@
     - true == 2 = false. This happens since true becomes 1 and 1 does not equal to 2.
     - true === Boolean(2) = true. This happens since Boolean(2) = true, thus, true === true.
 15. == allows type conversion while === requires both value and type to match.
+16. Done in part2-question16.js.
+17. The result will be [2,4,6] because the modifyArray function takes in the [1,2,3] array and puts it in 'array' then doubles each element in the array.
+18. Done in part2-question18.js.
